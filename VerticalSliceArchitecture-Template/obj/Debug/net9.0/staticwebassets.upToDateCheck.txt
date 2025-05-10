@@ -1,0 +1,2 @@
+C:\Free-Template\VerticalSliceArchitecture-Template\VerticalSliceArchitecture-Template\wwwroot\app.css
+wwwroot\app.css

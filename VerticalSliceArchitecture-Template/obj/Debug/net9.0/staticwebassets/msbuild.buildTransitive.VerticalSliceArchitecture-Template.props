@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VerticalSliceArchitecture-Template.props" />
+</Project>

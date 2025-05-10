@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "a6M5xYwLcXM7zQibZf+Yk3GwScUC7Gl/YzuGVMU9c0M=",
+  "Source": "VerticalSliceArchitecture-Template",
+  "BasePath": "_content/VerticalSliceArchitecture-Template",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VerticalSliceArchitecture-Template\\wwwroot",
+      "Source": "VerticalSliceArchitecture-Template",
+      "ContentRoot": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\wwwroot\\",
+      "BasePath": "_content/VerticalSliceArchitecture-Template",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\3m45hh85xu-wqv0x586p7.gz",
+      "SourceId": "VerticalSliceArchitecture-Template",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/VerticalSliceArchitecture-Template",
+      "RelativePath": "VerticalSliceArchitecture-Template#[.{fingerprint=wqv0x586p7}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\VerticalSliceArchitecture-Template.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "anodqnnox8",
+      "Integrity": "+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\VerticalSliceArchitecture-Template.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\601ehk8zv1-wqv0x586p7.gz",
+      "SourceId": "VerticalSliceArchitecture-Template",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/VerticalSliceArchitecture-Template",
+      "RelativePath": "VerticalSliceArchitecture-Template#[.{fingerprint=wqv0x586p7}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\bundle\\VerticalSliceArchitecture-Template.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "anodqnnox8",
+      "Integrity": "+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\bundle\\VerticalSliceArchitecture-Template.styles.css"
+    },
+    {
+      "Identity": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\cyyezpimpy-4kywy7iv6g.gz",
+      "SourceId": "VerticalSliceArchitecture-Template",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/VerticalSliceArchitecture-Template",
+      "RelativePath": "app#[.{fingerprint=4kywy7iv6g}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2en0hznbof",
+      "Integrity": "asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\bundle\\VerticalSliceArchitecture-Template.styles.css",
+      "SourceId": "VerticalSliceArchitecture-Template",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/VerticalSliceArchitecture-Template",
+      "RelativePath": "VerticalSliceArchitecture-Template#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "wqv0x586p7",
+      "Integrity": "SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\bundle\\VerticalSliceArchitecture-Template.styles.css"
+    },
+    {
+      "Identity": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\VerticalSliceArchitecture-Template.bundle.scp.css",
+      "SourceId": "VerticalSliceArchitecture-Template",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/VerticalSliceArchitecture-Template",
+      "RelativePath": "VerticalSliceArchitecture-Template#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "wqv0x586p7",
+      "Integrity": "SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\VerticalSliceArchitecture-Template.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\wwwroot\\app.css",
+      "SourceId": "VerticalSliceArchitecture-Template",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\wwwroot\\",
+      "BasePath": "_content/VerticalSliceArchitecture-Template",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kywy7iv6g",
+      "Integrity": "9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.4kywy7iv6g.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\cyyezpimpy-4kywy7iv6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000742390497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.4kywy7iv6g.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.4kywy7iv6g.css.gz",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\cyyezpimpy-4kywy7iv6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kywy7iv6g"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\cyyezpimpy-4kywy7iv6g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000742390497"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9DR4jqepGIo9Cj7VCYKuZtZqXALX1jWq8UpnuF3uz30="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\cyyezpimpy-4kywy7iv6g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 12:34:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-asODEDoSczli+v7BcPWOb+ZvlZiz7/jpDtOl7lYQLVU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.bundle.scp.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\3m45hh85xu-wqv0x586p7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002865329513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.bundle.scp.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\VerticalSliceArchitecture-Template.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.bundle.scp.css.gz",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\3m45hh85xu-wqv0x586p7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.styles.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\601ehk8zv1-wqv0x586p7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002865329513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.styles.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\bundle\\VerticalSliceArchitecture-Template.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.styles.css.gz",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\601ehk8zv1-wqv0x586p7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.wqv0x586p7.bundle.scp.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\3m45hh85xu-wqv0x586p7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002865329513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqv0x586p7"
+        },
+        {
+          "Name": "label",
+          "Value": "VerticalSliceArchitecture-Template.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.wqv0x586p7.bundle.scp.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\VerticalSliceArchitecture-Template.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqv0x586p7"
+        },
+        {
+          "Name": "label",
+          "Value": "VerticalSliceArchitecture-Template.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.wqv0x586p7.bundle.scp.css.gz",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\3m45hh85xu-wqv0x586p7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqv0x586p7"
+        },
+        {
+          "Name": "label",
+          "Value": "VerticalSliceArchitecture-Template.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.wqv0x586p7.styles.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\601ehk8zv1-wqv0x586p7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002865329513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqv0x586p7"
+        },
+        {
+          "Name": "label",
+          "Value": "VerticalSliceArchitecture-Template.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.wqv0x586p7.styles.css",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\scopedcss\\bundle\\VerticalSliceArchitecture-Template.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqv0x586p7"
+        },
+        {
+          "Name": "label",
+          "Value": "VerticalSliceArchitecture-Template.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SGo5/kNQiEnJUiHvVBLSTnaPY4r/Wmdp8bajf46hnrU="
+        }
+      ]
+    },
+    {
+      "Route": "VerticalSliceArchitecture-Template.wqv0x586p7.styles.css.gz",
+      "AssetFile": "C:\\Free-Template\\VerticalSliceArchitecture-Template\\VerticalSliceArchitecture-Template\\obj\\Debug\\net9.0\\compressed\\601ehk8zv1-wqv0x586p7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 15:29:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqv0x586p7"
+        },
+        {
+          "Name": "label",
+          "Value": "VerticalSliceArchitecture-Template.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+rtVT/0zoDHje4T6a/B2g4P6S7Q13SFzqNs3RX+krgs="
+        }
+      ]
+    }
+  ]
+}
